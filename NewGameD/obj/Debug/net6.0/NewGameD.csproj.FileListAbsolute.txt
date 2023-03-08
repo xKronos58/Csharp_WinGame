@@ -1,0 +1,15 @@
+W:\NewGameD\NewGameD\bin\Debug\net6.0\NewGameD.exe
+W:\NewGameD\NewGameD\bin\Debug\net6.0\NewGameD.deps.json
+W:\NewGameD\NewGameD\bin\Debug\net6.0\NewGameD.runtimeconfig.json
+W:\NewGameD\NewGameD\bin\Debug\net6.0\NewGameD.dll
+W:\NewGameD\NewGameD\bin\Debug\net6.0\NewGameD.pdb
+W:\NewGameD\NewGameD\obj\Debug\net6.0\NewGameD.csproj.AssemblyReference.cache
+W:\NewGameD\NewGameD\obj\Debug\net6.0\NewGameD.GeneratedMSBuildEditorConfig.editorconfig
+W:\NewGameD\NewGameD\obj\Debug\net6.0\NewGameD.AssemblyInfoInputs.cache
+W:\NewGameD\NewGameD\obj\Debug\net6.0\NewGameD.AssemblyInfo.cs
+W:\NewGameD\NewGameD\obj\Debug\net6.0\NewGameD.csproj.CoreCompileInputs.cache
+W:\NewGameD\NewGameD\obj\Debug\net6.0\NewGameD.dll
+W:\NewGameD\NewGameD\obj\Debug\net6.0\refint\NewGameD.dll
+W:\NewGameD\NewGameD\obj\Debug\net6.0\NewGameD.pdb
+W:\NewGameD\NewGameD\obj\Debug\net6.0\NewGameD.genruntimeconfig.cache
+W:\NewGameD\NewGameD\obj\Debug\net6.0\ref\NewGameD.dll
